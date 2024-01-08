@@ -1,0 +1,84 @@
+    1  ls
+    2  pwd
+    3  cd ../
+    4  ls
+    5  cd ijhabuawala/
+    6  ls
+    7  ls -ltr
+    8  ls -a
+    9  cd /mnt/c/Users/Newton/Downloads/
+   10  ls
+   11  sudo apt update
+   12  sudo apt upgrade
+   13  python3 -V
+   14  lsb_release -a
+   15  sudo apt install software-properties-common
+   16  sudo add-apt-repository ppa:deadsnakes/ppa
+   17  sudo apt install python3.9
+   18  python3.9 --version
+   19  sudo apt install python3-django
+   20  django-admin --version
+   21  sudo apt install python3-pip python3-venv
+   22  pip install Django==4.0.4
+   23  django-admin --version
+   24  python3.9 --version
+   25  django-admin --version
+   26  python3.9 --version
+   27  cd /mnt/c/Users/Newton/Documents/
+   28  ls
+   29  cd portfolio-project/
+   30  ls
+   31  grep 8000 *
+   32  grep -R 8000 *
+   33  ls
+   34  grep -R url *
+   35  grep -R 8000 *
+   36  apt-get install postgresql-12
+   37  pwd
+   38  ls
+   39  django-admin startproject portfolio
+   40  ls
+   41  cd portfolio/
+   42  lss
+   43  ls
+   44  cd ../
+   45  ls
+   46  rm portfolio/
+   47  rm -rf portfolio/
+   48  ls
+   49  cd /mnt/c/Users/Newton/Desktop/
+   50  cd ../
+   51  ls
+   52  cd Documents/
+   53  ls
+   54  django-admin startproject portfolio
+   55  cd portfolio/
+   56  ls
+   57  cd portfolio/
+   58  ls
+   59  cd ../
+   60  ls
+   61  cd ../
+   62  cd portfolio-project/
+   63  ls
+   64  pwd
+   65  PROMPT_DIRTRIM=1
+   66  ls
+   67  python3 manage.py runserver
+   68  django-admin startapp jobs
+   69  ls
+   70  python3 manage.py runserver
+   71  python3 manage.py runserver localhost:8000/home
+   72  python3 manage.py runserver
+   73  sudo apt-get install postgresql-12
+   74  postgresql
+   75  psql
+   76  sudo apt install postgresql postgresql-contrib
+   77  sudo -i -u postgres
+   78  jira
+   79  python3 manage.py runserver
+   80  cd /mnt/c/Users/Newton/Documents/
+   81  ls
+   82  cd portfolio-project/
+   83  ls
+   84  history > commands.txt
